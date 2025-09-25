@@ -6,6 +6,8 @@ out/
 .encryptedKey
 broadcast/
 
+foundry.lock
+
 node_modules
 package-lock.json
 

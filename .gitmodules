@@ -8,6 +8,3 @@
 	path = lib/foundry-chainlink-toolkit
 	url = https://github.com/smartcontractkit/foundry-chainlink-toolkit
 	branch = feature/integration-automation
-[submodule "lib/chainlink-evm"]
-	path = lib/chainlink-evm
-	url = https://github.com/smartcontractkit/chainlink-evm
