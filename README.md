@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repository has recently been updated for use with [Chainlink contracts](https://github.com/smartcontractkit/chainlink-evm/) v1.5.0. See the [dependency installation section for instructions on how to set up v1.5.0](#>=1.5.0) within your own project using `forge install`.
+> This repository has recently been updated for use with [Chainlink contracts](https://github.com/smartcontractkit/chainlink-evm/) v1.5.0. See the [dependency installation section for instructions on how to set up v1.5.0](#installing-chainlink-contracts-with-forge-install) within your own project using `forge install`.
 # Foundry Starter Kit
 
 <br/>
@@ -100,7 +100,7 @@ Include the following remappings within your project's `remappings.txt` or `foun
 #### Step 1: Install <= v1.4.0
 
 ```
-forge install smartcontractkit/chainlink-evm@<version>
+forge install smartcontractkit/chainlink-evm@contracts-v<version>
 ```
 
 #### Step 2: Set remappings
