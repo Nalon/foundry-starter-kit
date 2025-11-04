@@ -59,10 +59,14 @@ Run `forge install` to install dependencies. [Foundry uses git submodules](https
 
 You can update dependencies by running `forge update`
 
-## Installing Chainlink contracts with `forge install`:
+## Installing Chainlink contracts:
+
+```forge install```
 
 > [!IMPORTANT]
-> For this starter kit, the packages have already been included and can be installed using the above `forge install` command. This package includes Chainlink contracts v1.5.0. The below steps are for those that wish to install Chainlink contracts into their own project or modify the version used within the starter kit.
+> For this starter kit, the packages have already been included and can be installed using the above `forge install` command. This package includes Chainlink contracts v1.5.0.
+
+To add Chainlink contracts to an existing project:
 
 <details id=">=1.5.0">
 <summary>v1.5.0 and above</summary>
