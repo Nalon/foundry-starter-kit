@@ -61,7 +61,9 @@ You can update dependencies by running `forge update`
 
 ## Installing Chainlink contracts:
 
-```forge install```
+```
+forge install
+```
 
 > [!IMPORTANT]
 > For this starter kit, the packages have already been included and can be installed using the above `forge install` command. This package includes Chainlink contracts v1.5.0.
